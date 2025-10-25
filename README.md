@@ -1,1 +1,2 @@
-# A game made for the UOL Game Jam 12.
+# Robot Game (working title)
+Ein Spiel entwickelt für den UOL Game Jam 12.
